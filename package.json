@@ -1,5 +1,5 @@
 {
-  "name": " ",
+  "name": "test_app",
   "version": "0.0.1",
   "engines":{
   	"node":"14.17.5"
